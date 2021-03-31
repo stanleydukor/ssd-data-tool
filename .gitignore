@@ -1,0 +1,6 @@
+env
+Annotations/*
+.ipynb_checkpoints
+ImageSets/Main/*
+JPEGImages/*
+*pycache*
