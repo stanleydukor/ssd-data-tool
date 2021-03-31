@@ -4,3 +4,6 @@ Annotations/*
 ImageSets/Main/*
 JPEGImages/*
 *pycache*
+*.pyc
+*.pyo
+__pycache__/
